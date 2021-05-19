@@ -1,0 +1,4 @@
+[submodule "fmriprep"]
+	path = fmriprep
+	url = ./fmriprep
+	datalad-id = 3dd10ddd-5485-4ab1-8751-48d3b8d984cf
