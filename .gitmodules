@@ -2,3 +2,7 @@
 	path = fmriprep
 	url = ./fmriprep
 	datalad-id = 3dd10ddd-5485-4ab1-8751-48d3b8d984cf
+[submodule "smriprep"]
+	path = smriprep
+	url = ./smriprep
+	datalad-id = f3ef9683-0a58-4d2b-b4eb-d33d8fc3fd2b
