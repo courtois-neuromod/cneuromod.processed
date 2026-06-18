@@ -1,4 +1,6 @@
-# [Courtois NeuroMod - preprocessed](https://www.cneuromod.ca/)
+<base target="_blank">
+
+# Courtois NeuroMod - preprocessed
 
 ## Overview
 
@@ -12,7 +14,7 @@ Data for all 6 subjects in Courtois NeuroMod project are accessible through regi
 
 ## Datasets
 
-Datasets will be updated with each new CNeuroMod data release. This dataset contains the Courtois NeuroMod [preprocessed data derivatives](https://github.com/courtois-neuromod/cneuromod.processed) (including from the fMRIprep LTS pipeline) but raw data are also available for the same three participants in [this dataset](). ​Details on sequences, processing workflow, and datasets can be found in the [Courtois Neuromod documentation](http://docs.cneuromod.ca/).
+Datasets will be updated with each new CNeuroMod data release. This dataset contains the Courtois NeuroMod [preprocessed data derivatives](https://github.com/courtois-neuromod/cneuromod.processed) (including from the fMRIprep LTS pipeline) but raw data are also available for the same three participants in [this dataset](https://portal.conp.ca/dataset?id=projects/cneuromod). ​Details on sequences, processing workflow, and datasets can be found in the [Courtois Neuromod documentation](http://docs.cneuromod.ca/).
 
 ## License
 
@@ -32,7 +34,7 @@ The Courtois project on neural modelling was made possible by a generous donatio
 
 ## Known issues
 
-As this is an alpha release of this dataset, we ask that users keep a couple of points in mind:
+As this is a beta release of this dataset, we ask that users keep a couple of points in mind:
 
 1. Some of the data included in this dataset require a GitHub SSH key to download. Instructions on generating and using SSH keys for GitHub can be found on [this page of the GitHub Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
